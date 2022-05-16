@@ -5,7 +5,7 @@ import locationimg from './Images/location-box.jpg'
 
 export default function LocationPart() {
   return (
-    <locationpart>
+    <div>
       <br />
       <div className="part-2-text">
         <span className="part-2-h1">Salon Chain</span>
@@ -37,6 +37,6 @@ export default function LocationPart() {
           </div>
         </div>
       </div>
-    </locationpart>
+    </div>
   );
 }
