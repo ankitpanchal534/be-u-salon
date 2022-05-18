@@ -10,10 +10,7 @@ function App() {
 <Header  />
 <MainPage />
 <LocationPart />
-<br />
-<br />
-<br />
-<br />
+
     </div>
   );
 }
